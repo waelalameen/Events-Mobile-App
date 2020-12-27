@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="11" height="16" viewBox="0 0 11 16">
+  <g id="ic_count_down" transform="translate(-2.5 -1)">
+    <g id="ic" transform="translate(2.333 0.667)">
+      <path id="Shape" d="M1.737,13.743c.982,0,2.446-1.348,3.189-1.923a1.278,1.278,0,0,1,1.48,0c.749.57,2.209,1.927,3.191,1.927M2.74,6.77C4.7,6,6.326,7.648,8.664,6.719" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1" fill-rule="evenodd"/>
+      <path id="Shape-2" data-name="Shape" d="M9.6,15.426V12.183A3.346,3.346,0,0,0,8.134,9.429L6.777,8.5a.238.238,0,0,1,0-.394l1.357-.933A3.346,3.346,0,0,0,9.6,4.414V1M1.737,1V4.414A3.346,3.346,0,0,0,3.2,7.169L4.556,8.1a.238.238,0,0,1,0,.394L3.2,9.429a3.346,3.346,0,0,0-1.462,2.755v3.243m-1.07.407h10m-10-15h10" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1" fill-rule="evenodd"/>
+      <path id="Shape-3" data-name="Shape" d="M4.639,8.4c.705.176.987,1.017,1.028,1.017a1.932,1.932,0,0,1,1.006-1.13" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="24" height="24" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="ic_your_location" transform="translate(0 0)">
+    <g id="ic" transform="translate(1 1)">
+      <circle id="Oval" cx="11" cy="11" r="11" transform="translate(0 0)" fill="none" stroke="#ed3269" stroke-linecap="round" stroke-width="2"/>
+      <path id="Shape" d="M8.433,13.933,9.9,9.533l4.4-1.467-1.467,4.4Z" fill="none" stroke="#ed3269" stroke-linecap="round" stroke-width="2" fill-rule="evenodd"/>
+    </g>
+    <g id="bound_24" clip-path="url(#clip-path)">
+      <rect id="bound_24-2" data-name="bound_24" width="24" height="24" fill="none"/>
+    </g>
+  </g>
+</svg>

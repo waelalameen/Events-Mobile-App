@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="ic_follow" transform="translate(-1186 -800)">
+    <g id="ic" transform="translate(1186 800)">
+      <circle id="Oval" cx="4" cy="4" r="4" transform="translate(5 5)" fill="none" stroke="#353b48" stroke-linecap="round" stroke-width="2"/>
+      <path id="Shape" d="M.25,20.209V22.25h16V20.209a8.046,8.046,0,0,0-8-7.959A8.046,8.046,0,0,0,.25,20.209Z" transform="translate(0.75 0.75)" fill="none" stroke="#353b48" stroke-linecap="round" stroke-width="2" fill-rule="evenodd"/>
+      <path id="Shape-2" data-name="Shape" d="M18.75.25v7m-3.5-3.5h7" transform="translate(0.75 0.75)" fill="none" stroke="#353b48" stroke-linecap="round" stroke-width="2" fill-rule="evenodd"/>
+    </g>
+    <g id="bound_24" transform="translate(117 -495)">
+      <rect id="bound_24-2" data-name="bound_24" width="24" height="24" transform="translate(1069 1295)" fill="none"/>
+    </g>
+  </g>
+</svg>

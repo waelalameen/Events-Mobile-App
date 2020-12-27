@@ -1,0 +1,15 @@
+<svg id="ic_around_you" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="24" height="24" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="ic" transform="translate(2 1)">
+    <circle id="Oval" cx="2.2" cy="2.2" r="2.2" transform="translate(8.067 0)" fill="none" stroke="#ed3269" stroke-linecap="round" stroke-width="2"/>
+    <path id="Shape" d="M12.467,16.207c4.62.293,8.067,1.467,8.067,2.86S15.95,22,10.267,22,0,20.68,0,19.067s3.447-2.567,8.067-2.86" fill="none" stroke="#ed3269" stroke-linecap="round" stroke-width="2" fill-rule="evenodd"/>
+    <path id="Shape-2" data-name="Shape" d="M13.933,5.867H6.6a.733.733,0,0,0-.733.733V11a.733.733,0,0,0,.733.733H8.067v5.5a1.1,1.1,0,0,0,1.1,1.1h2.2a1.1,1.1,0,0,0,1.1-1.1v-5.5h1.467A.733.733,0,0,0,14.667,11V6.6A.733.733,0,0,0,13.933,5.867Z" fill="none" stroke="#ed3269" stroke-linecap="round" stroke-width="2" fill-rule="evenodd"/>
+  </g>
+  <g id="bound_24" clip-path="url(#clip-path)">
+    <rect id="bound_24-2" data-name="bound_24" width="24" height="24" fill="none"/>
+  </g>
+</svg>

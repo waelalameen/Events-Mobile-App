@@ -1,0 +1,14 @@
+<svg id="ic_uncheck" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="32" height="32" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="ic" transform="translate(1 1)">
+    <circle id="Oval" cx="15" cy="15" r="15" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+    <path id="Shape" d="M9.5,15.007l4.5,4.5L22,11.5" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2" fill-rule="evenodd"/>
+  </g>
+  <g id="bound_32" clip-path="url(#clip-path)">
+    <rect id="bound_32-2" data-name="bound_32" width="32" height="32" fill="none"/>
+  </g>
+</svg>

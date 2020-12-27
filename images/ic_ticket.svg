@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="16" height="16" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="ic_ticket" clip-path="url(#clip-path)">
+    <g id="ic" transform="translate(0.5 0.5)">
+      <path id="Shape" d="M13.25,4.175A1.725,1.725,0,0,1,10.825,1.75L9.075,0,0,9.075l1.75,1.75A1.725,1.725,0,0,1,4.175,13.25L5.925,15,15,5.925Z" fill="none" stroke="#353b48" stroke-linecap="round" stroke-width="1" fill-rule="evenodd"/>
+      <path id="Shape-2" data-name="Shape" d="M8.025,3.15l.35.35m1.05,1.025.35.35m1.05,1.05.35.35M12.2,7.325l.35.35m-10.1-.35.35.35m1.025,1.05.35.35m1.05,1.05.35.35M6.625,11.5l.35.35" fill="none" stroke="#353b48" stroke-linecap="round" stroke-width="1" fill-rule="evenodd"/>
+    </g>
+    <g id="bound_16" clip-path="url(#clip-path)">
+      <rect id="bound_16-2" data-name="bound_16" width="16" height="16" fill="none"/>
+    </g>
+  </g>
+</svg>

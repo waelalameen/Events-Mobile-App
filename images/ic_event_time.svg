@@ -1,0 +1,14 @@
+<svg id="ic_event_time" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="16" height="16" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="ic" transform="translate(0.5 0.5)">
+    <circle id="Oval" cx="7.5" cy="7.5" r="7.5" fill="none" stroke="#353b48" stroke-linecap="round" stroke-width="1"/>
+    <path id="Shape" d="M7.5,3V7.75L10.75,9.5" fill="none" stroke="#353b48" stroke-linecap="round" stroke-width="1" fill-rule="evenodd"/>
+  </g>
+  <g id="bound_16" clip-path="url(#clip-path)">
+    <rect id="bound_16-2" data-name="bound_16" width="16" height="16" fill="none"/>
+  </g>
+</svg>
