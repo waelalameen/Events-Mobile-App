@@ -4,12 +4,12 @@ import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:flutter_svg/svg.dart';
 
-class EventsForYou extends StatefulWidget {
+class EventsForYouTab extends StatefulWidget {
   @override
-  _EventsForYouState createState() => _EventsForYouState();
+  _EventsForYouTabState createState() => _EventsForYouTabState();
 }
 
-class _EventsForYouState extends State<EventsForYou>
+class _EventsForYouTabState extends State<EventsForYouTab>
     with SingleTickerProviderStateMixin {
   TabController _tabController;
   final List<Tab> _tabs = [Tab(text: 'FOR YOU'), Tab(text: 'TRENDING')];

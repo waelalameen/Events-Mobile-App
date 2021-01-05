@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 
 import 'ui/colors.dart';
 import 'ui/pages/event_details.dart';
+import 'ui/pages/purchase_complete.dart';
+import 'ui/pages/purchase_details.dart';
 
 void main() {
   runApp(MyApp());
@@ -35,26 +37,27 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      // appBar: AppBar(
-      //   flexibleSpace: Container(
-      //     decoration: BoxDecoration(
-      //       gradient: LinearGradient(
-      //         colors: [
-      //           START_COLOR,
-      //           END_COLOR
-      //         ],
-      //       ),
-      //     ),
-      //   ),
-      //   centerTitle: true,
-      //   title: Text(
-      //     'Events',
-      //     style: TextStyle(
-      //       fontWeight: FontWeight.w400
-      //     ),
-      //   ),
-      // ),
-      body: EventDetails() // This trailing comma makes auto-formatting nicer for build methods.
+      appBar: AppBar(
+        elevation: 0.0,
+        flexibleSpace: Container(
+          decoration: BoxDecoration(
+            gradient: LinearGradient(
+              colors: [
+                START_COLOR,
+                END_COLOR
+              ],
+            ),
+          ),
+        ),
+        centerTitle: true,
+        title: Text(
+          'Purchase Details',
+          style: TextStyle(
+            fontWeight: FontWeight.w400
+          ),
+        ),
+      ),
+      body: PurchaseComplete() // This trailing comma makes auto-formatting nicer for build methods.
     );
   }
 }

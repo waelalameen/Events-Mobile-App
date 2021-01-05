@@ -24,7 +24,7 @@ class PrimaryButton extends StatelessWidget {
         ),
         child: InkWell(
           onTap: () {
-            onPressed.call();
+            if (onPressed != null) onPressed.call();
           },
           child: Center(
             child: Text(

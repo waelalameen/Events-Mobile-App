@@ -127,6 +127,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.2.0"
+  clip_shadow:
+    dependency: transitive
+    description:
+      name: clip_shadow
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.2.1"
   clock:
     dependency: transitive
     description:
@@ -256,6 +263,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.1.4"
+  fw_ticket:
+    dependency: "direct main"
+    description:
+      name: fw_ticket
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.1.1"
   glob:
     dependency: transitive
     description:

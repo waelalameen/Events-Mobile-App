@@ -33,6 +33,7 @@ dependencies:
   dio: ^3.0.10
   flutter_rating_bar: ^3.2.0+1
   page_view_indicators: ^1.4.0
+  fw_ticket: any
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
@@ -73,6 +74,10 @@ flutter:
     - images/ic_direction.svg
     - images/ic_event_time.svg
     - images/ic_write_review.svg
+    - images/img_amex.png
+    - images/img_master.png
+    - images/img_visa.png
+    - images/img_qrcode.svg
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
